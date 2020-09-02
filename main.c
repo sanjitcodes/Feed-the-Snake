@@ -16,7 +16,7 @@
 
 
 int dirr (int l,int r1,int r2 )	{
-	
+	PORTB=r1;
 	int f=l;
 	
 	int m=0;
